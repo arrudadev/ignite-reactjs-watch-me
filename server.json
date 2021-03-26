@@ -2,32 +2,32 @@
   "genres": [
     {
       "id": 1,
-      "name": "action",
+      "iconName": "action",
       "title": "Ação"
     },
     {
       "id": 2,
-      "name": "comedy",
+      "iconName": "comedy",
       "title": "Comédia"
     },
     {
       "id": 3,
-      "name": "documentary",
+      "iconName": "documentary",
       "title": "Documentário"
     },
     {
       "id": 4,
-      "name": "drama",
+      "iconName": "drama",
       "title": "Drama"
     },
     {
       "id": 5,
-      "name": "horror",
+      "iconName": "horror",
       "title": "Terror"
     },
     {
       "id": 6,
-      "name": "family",
+      "iconName": "family",
       "title": "Família"
     }
   ],
